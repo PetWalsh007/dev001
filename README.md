@@ -39,6 +39,3 @@ git pull origin main
 git log
 ```
 
-Hello Peter, this is my code now is seems. 
-
-Reconsider.
