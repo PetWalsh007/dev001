@@ -13,7 +13,7 @@ Branch Test
 git clone {name of repo}
 ```
 
-* After Making Changes and Saving 
+* After Making Changes and saving 
 ```bash
 git add . # This will add the whole directory 
 git add {filename} # This will add the speciifc filename 
